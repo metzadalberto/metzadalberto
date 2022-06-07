@@ -22,8 +22,8 @@ pip2 install mechanize
 
 pip2 install lolcat
 
-git clone https://github.com/THE-LEGEND-METZ/metzadalberto
+git clone https://github.com/THE-LEGEND-METZ/metzadalbertoX3Annos
 
-cd metzadalberto
+cd metzadalbertoX3Annos
 
-python2 metzadalberto.PY
+python2 metzadalberto.py
